@@ -1,0 +1,9 @@
+caste,caste_score,occupation,occupation_score,education,education_score,land,land_score,social.participation,social.participation_score,house,house_score,farm.power,farm.power_score,material.possessions,material.possessions_score,family.type,family.type_score,pareek_score,pareek_class
+schedule caste,1,none,0,illiterate,0,0,0,none,0,no house,0,0,1,bullock cart,0,single,1,50,Upper class (A)
+lower caste,2,laborer,1,can read only,1,0.5,1,member of one organization,1,hut,1,1,2,cycle,1,joint,2,40,Upper middle class (B)
+artisan caste,3,caste occupation,2,can read and write,2,3,2,member of more than one organization,2,kutcha house,2,3,4,radio,2,extended,3,30,Middle class (C)
+agriculture caste,4,business,3,primary,3,7,3,office holder in such a organization,3,mixed house,3,5,6,chair,3,size up to 5,2,20,Lower middle class (D)
+prestige caste,5,independent profession,4,middle,4,12,4,wide public leader,4,pucca house,4,,,mobile phone,4,any other distinctive features,2,10,Lower class (E)
+dominant caste,6,cultivation,5,high school,5,17,5,,,mansion,5,,,television,5,,,,
+,,service,6,graduate,6,22,6,,,,,,,refrigerator,6,,,,
+,,,,above graduate,7,,,,,,,,,,,,,,
